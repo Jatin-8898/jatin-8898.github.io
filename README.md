@@ -4,10 +4,10 @@
 
 Just change `src/portfolio.js` to get your personal portfolio . Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/Jatin-8898/developerFolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/Jatin-8898/portfolio/issues).
 
 
-If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [pull request](https://github.com/Jatin-8898/developerFolio/pulls).
+If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [pull request](https://github.com/Jatin-8898/portfolio/pulls).
 
 
 ## Sections 
