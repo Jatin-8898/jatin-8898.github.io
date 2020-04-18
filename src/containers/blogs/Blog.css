@@ -1,6 +1,6 @@
 /*Blog Cards Layout*/
 .square {
-  width: 440px;
+  width: 340px;
   height: 430px;
   background: white;
   border-radius: 4px;
@@ -36,7 +36,7 @@
 }
 .blog-text-div{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   flex-wrap: wrap;
 }
 
