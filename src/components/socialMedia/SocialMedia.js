@@ -13,16 +13,24 @@ export default function socialMedia() {
         <i className="fab fa-linkedin-in"></i>
         <span></span>
       </a>
+      <a href={socialMediaLinks.medium} className="icon-button medium" target="_blank">
+        <i className="fab fa-medium"></i>
+        <span></span>
+      </a>
       <a href={`mailto:${socialMediaLinks.gmail}`} className="icon-button google" target="_blank">
         <i className="fab fa-google"></i>
         <span></span>
       </a>
-      <a href={socialMediaLinks.gitlab} className="icon-button gitlab" target="_blank">
-        <i className="fab fa-gitlab"></i>
+      <a href={socialMediaLinks.stackoverflow} className="icon-button stackoverflow" target="_blank">
+        <i className="fab fa-stack-overflow"></i>
         <span></span>
       </a>
-      <a href={socialMediaLinks.facebook} className="icon-button facebook" target="_blank">
-        <i className="fab fa-facebook-f"></i>
+      <a href={socialMediaLinks.hackerrank} className="icon-button hackerrank" target="_blank">
+        <i className="fab fa-hackerrank"></i>
+        <span></span>
+      </a>
+      <a href={socialMediaLinks.twitter} className="icon-button twitter" target="_blank">
+        <i className="fab fa-twitter"></i>
         <span></span>
       </a>
     </div>

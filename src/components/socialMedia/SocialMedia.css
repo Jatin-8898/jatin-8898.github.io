@@ -27,19 +27,22 @@
   margin-bottom: 10px;
 }
 
-.facebook i {
-  background-color: #3b5998;
+.hackerrank i {
+  background-color: #32C766;
 }
 
 .linkedin i {
   background-color: #0e76a8;
+}
+.medium i{
+  background-color: #12B886;
 }
 
 .github i {
   background-color: #333;
 }
 
-.gitlab i {
+.stackoverflow i {
   background-color: #fca326;
 }
 
@@ -52,8 +55,8 @@
 }
 
 /*Hover Transition*/
-.twitter i:hover, .google i:hover, .gitlab i:hover,
-.github i:hover ,.linkedin i:hover ,.facebook i:hover{
+.twitter i:hover,.hackerrank i:hover, .google i:hover, .medium i:hover,
+.github i:hover ,.linkedin i:hover ,.stackoverflow i:hover{
   background-color: black;
   transition: 0.3s ease-in;
 }
