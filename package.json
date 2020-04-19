@@ -1,8 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "jatin-8898.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jatinvarlyani.tech",
   "dependencies": {
     "@apollo/react-hooks": "^3.1.4",
     "apollo-boost": "^0.4.4",
