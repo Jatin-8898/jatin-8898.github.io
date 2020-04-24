@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.03ebb5c9.chunk.css",
-    "main.js": "/static/js/main.501e7175.chunk.js",
-    "main.js.map": "/static/js/main.501e7175.chunk.js.map",
+    "main.css": "/static/css/main.2f89cffb.chunk.css",
+    "main.js": "/static/js/main.6d600938.chunk.js",
+    "main.js.map": "/static/js/main.6d600938.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.61843785.js",
     "runtime-main.js.map": "/static/js/runtime-main.61843785.js.map",
-    "static/js/2.87c050d1.chunk.js": "/static/js/2.87c050d1.chunk.js",
-    "static/js/2.87c050d1.chunk.js.map": "/static/js/2.87c050d1.chunk.js.map",
+    "static/js/2.b00016a1.chunk.js": "/static/js/2.b00016a1.chunk.js",
+    "static/js/2.b00016a1.chunk.js.map": "/static/js/2.b00016a1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e48c4991fcb1eca2a1ce8fda5a8f4bab.js": "/precache-manifest.e48c4991fcb1eca2a1ce8fda5a8f4bab.js",
+    "precache-manifest.2f8607d8bc96252da40a4269ed391fa8.js": "/precache-manifest.2f8607d8bc96252da40a4269ed391fa8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.03ebb5c9.chunk.css.map": "/static/css/main.03ebb5c9.chunk.css.map",
+    "static/css/main.2f89cffb.chunk.css.map": "/static/css/main.2f89cffb.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Man developing website on desk.png": "/static/media/Man developing website on desk.45eb8c2a.png",
-    "static/media/Startup.png": "/static/media/Startup.cd847bd4.png",
-    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
-    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "static/media/Man developing website on desk.png": "/static/media/Man developing website on desk.253c9aab.png",
+    "static/media/Startup.png": "/static/media/Startup.992da64d.png",
+    "static/media/contactMail.png": "/static/media/contactMail.2580939d.png",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.61843785.js",
-    "static/js/2.87c050d1.chunk.js",
-    "static/css/main.03ebb5c9.chunk.css",
-    "static/js/main.501e7175.chunk.js"
+    "static/js/2.b00016a1.chunk.js",
+    "static/css/main.2f89cffb.chunk.css",
+    "static/js/main.6d600938.chunk.js"
   ]
 }
