@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.3247721b.chunk.css",
-    "main.js": "/static/js/main.a4287240.chunk.js",
-    "main.js.map": "/static/js/main.a4287240.chunk.js.map",
+    "main.css": "/static/css/main.08bff280.chunk.css",
+    "main.js": "/static/js/main.96fa1eca.chunk.js",
+    "main.js.map": "/static/js/main.96fa1eca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.61843785.js",
     "runtime-main.js.map": "/static/js/runtime-main.61843785.js.map",
-    "static/js/2.cbb40b29.chunk.js": "/static/js/2.cbb40b29.chunk.js",
-    "static/js/2.cbb40b29.chunk.js.map": "/static/js/2.cbb40b29.chunk.js.map",
+    "static/js/2.c2014ef8.chunk.js": "/static/js/2.c2014ef8.chunk.js",
+    "static/js/2.c2014ef8.chunk.js.map": "/static/js/2.c2014ef8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.69c4f368a7020b2550c4ddcfb3f49cac.js": "/precache-manifest.69c4f368a7020b2550c4ddcfb3f49cac.js",
+    "precache-manifest.3af81e8abc09bd8712a8b976ad1a262b.js": "/precache-manifest.3af81e8abc09bd8712a8b976ad1a262b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3247721b.chunk.css.map": "/static/css/main.3247721b.chunk.css.map",
+    "static/css/main.08bff280.chunk.css.map": "/static/css/main.08bff280.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Man developing website on desk.png": "/static/media/Man developing website on desk.253c9aab.png",
-    "static/media/Startup.png": "/static/media/Startup.992da64d.png",
-    "static/media/contactMail.png": "/static/media/contactMail.2580939d.png",
-    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot"
+    "static/media/Man developing website on desk.webp": "/static/media/Man developing website on desk.fbdb5778.webp",
+    "static/media/Startup.webp": "/static/media/Startup.feb96da3.webp",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/google-cloud.webp": "/static/media/google-cloud.c70d623f.webp",
+    "static/media/googleAssistant.webp": "/static/media/googleAssistant.e62d8069.webp",
+    "static/media/grow-with-google.webp": "/static/media/grow-with-google.7d292cd9.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.61843785.js",
-    "static/js/2.cbb40b29.chunk.js",
-    "static/css/main.3247721b.chunk.css",
-    "static/js/main.a4287240.chunk.js"
+    "static/js/2.c2014ef8.chunk.js",
+    "static/css/main.08bff280.chunk.css",
+    "static/js/main.96fa1eca.chunk.js"
   ]
 }
